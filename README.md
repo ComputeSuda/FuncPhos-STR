@@ -1,6 +1,7 @@
 
 # FuncPhos-STR
 FuncPhos-STR:The model, which consists of three feature encoding sub-networks (StrNet, SeqNet and SpNet) and a heterogeneous feature combination sub-network CoNet, comprehensively uses protein structure, protein sequence and PPI network information to predict functional phosphosites.
+![image](https://github.com/ComputeSuda/FuncPhos-STR/blob/master/img/img.png)
 
 # System requirement
 FuncPhos-SEQ is develpoed under Linux environment with:
